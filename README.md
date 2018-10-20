@@ -4,9 +4,7 @@
 This is an Android mobile application that mimics a flashcard. A question is displayed to the user, and when the user clicks on the question, the answer is shown.
 
 ### App Walk-though
-<iframe src="https://giphy.com/embed/1yhXOdzVlEXBPI3Ws4" width="242" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1yhXOdzVlEXBPI3Ws4">via GIPHY</a></p>
-
-<img src="http://recordit.co/lSA3VA7scN" width=200><br>
+<img src="https://media.giphy.com/media/1yhXOdzVlEXBPI3Ws4/giphy.gif" width=200><br>
 
 
 ## Required
